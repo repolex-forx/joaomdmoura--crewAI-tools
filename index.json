@@ -1,0 +1,11 @@
+{
+  "org": "joaomdmoura",
+  "repo": "crewAI-tools",
+  "versions": [
+    {
+      "commit": "62f4d7efd1ea61ec11e5c0922eee01b444b6c6d2",
+      "tag": "",
+      "parsed_at": "2026-10-17T21:41:31.230720+00:00"
+    }
+  ]
+}
