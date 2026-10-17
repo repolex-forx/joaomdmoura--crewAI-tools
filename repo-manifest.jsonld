@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/joaomdmoura/crewAI-tools/commit/62f4d7efd1ea61ec11e5c0922eee01b444b6c6d2",
       "git:hexsha": "62f4d7efd1ea61ec11e5c0922eee01b444b6c6d2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T21:41:31.230264+00:00"
     },
     {
       "@id": "https://repolex.ai/r/joaomdmoura/crewAI-tools/commit/bc09136c4a6b8d1439857dca45c4c448acccef99",
